@@ -64,8 +64,7 @@ End-to-end **Marketing Mix Modeling** to estimate channel impact and ROI.
 
 ## 📫 Contact
 
-- 📧 Email: ferradiego5@gmail.com  
-- 💼 LinkedIn: *(add link)*  
+- 📧 Email: ferradiego5@gmail.com    
 
 ---
 

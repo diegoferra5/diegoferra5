@@ -10,7 +10,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
@@ -60,12 +59,6 @@ End-to-end **Marketing Mix Modeling** to estimate channel impact and ROI.
 - Designed for scalability and real decision-making
 
 👉 https://github.com/diegoferra5/Marketing-Mix-Modeling
-
----
-
-## 📊 GitHub Activity
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoferra5&show_icons=true&hide_title=true)
 
 ---
 

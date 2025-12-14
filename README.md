@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Diego Ferra
 
-<!--
-**diegoferra5/diegoferra5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student in **Digital Business Transformation**  
+📊 **Data Scientist / Data Engineer**  
+🚀 Building real-world data products with Python, ML, and APIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+---
+
+## 🚀 About Me
+
+I focus on **end-to-end data products**, from data ingestion and modeling to APIs and decision-ready insights.
+
+My interests include:
+- 📈 Data Science & Econometric Modeling  
+- 🧠 Machine Learning & Forecasting  
+- 🏗 Data Engineering & Pipelines  
+- 🌐 Backend APIs & MVPs  
+
+I prioritize **clean architecture**, **business relevance**, and **production-oriented thinking**.
+
+---
+
+## 📌 Featured Projects
+
+### ⭐ **Saldo — Personal Finance MVP**
+![Stars](https://img.shields.io/github/stars/diegoferra5/saldo?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/diegoferra5/saldo?style=flat)
+
+AI-powered personal finance platform built from scratch as a **real MVP**.
+
+- Backend API with **FastAPI**
+- Parses Mexican bank statements
+- Expense categorization & insights
+- Roadmap toward production-ready financial tooling
+
+👉 https://github.com/diegoferra5/saldo
+
+---
+
+### 📊 **Marketing Mix Modeling (MMM)**
+![Stars](https://img.shields.io/github/stars/diegoferra5/Marketing-Mix-Modeling?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/diegoferra5/Marketing-Mix-Modeling?style=flat)
+
+End-to-end **Marketing Mix Modeling** to estimate channel impact and ROI.
+
+- Econometric regression models
+- Time-series transformations (adstock, lag effects)
+- Business-focused outputs for budget allocation
+- Designed for scalability and real decision-making
+
+👉 https://github.com/diegoferra5/Marketing-Mix-Modeling
+
+---
+
+## 📊 GitHub Activity
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoferra5&show_icons=true&hide_title=true)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: ferradiego5@gmail.com  
+- 💼 LinkedIn: *(add link)*  
+
+---
+
+⭐ *Always learning. Always building.*

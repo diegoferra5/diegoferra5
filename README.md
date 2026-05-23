@@ -21,7 +21,7 @@
 
 ### Stack
 
-`Python` · `SQL` · `Databricks` · `Azure OpenAI` · `Next.js` · `FastAPI` · `Supabase` · `LiveKit` · `ElevenLabs`
+`Python` · `SQL` · `Databricks` · `Claude Code` · `Next.js` · `FastAPI` · `Supabase` · `LiveKit` · `ElevenLabs`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diegoferra5&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Diego's GitHub stats" />

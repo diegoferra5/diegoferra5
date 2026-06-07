@@ -1,3 +1,4 @@
+````md
 <h1 align="center">Hi, I'm Diego Ferra 👋</h1>
 
 <p align="center">
@@ -7,9 +8,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-ferra-b7b6082bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ferradiego5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mysaldo.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diego-ferra-b7b6082bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ferradiego5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mysaldo.app/">
+    <img src="https://img.shields.io/badge/Saldo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -18,45 +25,30 @@
 
 ```text
 Diego Ferra — Data & AI builder from Monterrey, México 🇲🇽
-```
 
-- 🎓 **Digital Business Transformation** @ Tec de Monterrey
-- 💼 Data & GenAI Intern @ **Heineken México** → incoming @ **Oracle** (Summer 2026)
-- 🎙️ Shipping **AI voice agents in production** — ElevenLabs · LiveKit
-- 🥉 **3rd place** @ a 2024 hackathon
-- 🚀 Built & shipped **[Saldo](https://mysaldo.app)** — personal finance app for Mexico
-- 🔨 Currently building **Rinova** — voice AI agency for Mexican real estate & SMBs
+- 🎓 Digital Business Transformation @ Tec de Monterrey
+- 💼 Data & GenAI Intern @ Heineken México → incoming @ Oracle (Summer 2026)
+- 🎙️ Shipping AI voice agents in production — ElevenLabs · LiveKit
+- 🥉 3rd place @ a 2024 hackathon
+- 🚀 Built & shipped Saldo — personal finance app for Mexico
+- 🔨 Currently building Rinova — voice AI agency for Mexican real estate & SMBs
+````
 
 ---
 
 ### 🛠️ Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,tailwind,supabase,postgres,azure,git&theme=dark" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoferra5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoferra5&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoferra5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
-</p>
-
 ---
 
-<p align="center"><em>North star: building toward becoming a recognized tech leader from México 🚀</em></p>
+If the main stats card still shows the broken placeholder after a refresh, self-host it (5 min) and swap the URL:
+
+`github.com/anuraghazra/github-readme-stats#deploy-on-your-own`
+
+Want me to walk you through that?
+
+```
 ```

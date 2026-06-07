@@ -23,7 +23,7 @@ Diego Ferra — ML & AI Engineer from Monterrey, México 🇲🇽
 - 🎓 **Digital Business Transformation** @ Tec de Monterrey
 - 💼 Data & GenAI Intern @ **Heineken México** → incoming @ **Oracle** (Summer 2026)
 - 🎙️ Shipping **AI voice agents in production** — ElevenLabs · LiveKit
-- 🥉 **3rd place** @ a 2024 hackathon
+- 🥉 **3rd place** @ HackMTY 2024 hackathon
 - 🚀 Built & shipped **[Saldo](https://mysaldo.app)** — personal finance app for Mexico
 - 🔨 Currently building **Rinova** — voice AI agency for Mexican real estate & SMBs
 

@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi, I'm Diego Ferra 👋</h1>
 
 <p align="center">
@@ -32,7 +31,7 @@ Diego Ferra — Data & AI builder from Monterrey, México 🇲🇽
 - 🥉 3rd place @ a 2024 hackathon
 - 🚀 Built & shipped Saldo — personal finance app for Mexico
 - 🔨 Currently building Rinova — voice AI agency for Mexican real estate & SMBs
-````
+```
 
 ---
 
@@ -49,6 +48,3 @@ If the main stats card still shows the broken placeholder after a refresh, self-
 `github.com/anuraghazra/github-readme-stats#deploy-on-your-own`
 
 Want me to walk you through that?
-
-```
-```

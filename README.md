@@ -53,4 +53,3 @@ Diego Ferra — ML & AI Engineer from Monterrey, México 🇲🇽
 ---
 
 <p align="center"><em>North star: building toward becoming a recognized tech leader from México 🚀</em></p>
-```

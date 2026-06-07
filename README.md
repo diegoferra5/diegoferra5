@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/diegoferra5">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+Data+%26+AI+Products;Voice+AI+Agents+in+Production;Founder+%C2%B7+Builder+%C2%B7+Monterrey+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=ML+%26+AI+Engineer;Building+Data+%26+AI+Products;Voice+AI+Agents+in+Production;Founder+%C2%B7+Builder+%C2%B7+Monterrey+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 ### 🧠 About
 
 ```text
-Diego Ferra — Data & AI builder from Monterrey, México 🇲🇽
+Diego Ferra — ML & AI Engineer from Monterrey, México 🇲🇽
 ```
 
 - 🎓 **Digital Business Transformation** @ Tec de Monterrey
@@ -35,6 +35,7 @@ Diego Ferra — Data & AI builder from Monterrey, México 🇲🇽
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -46,7 +47,6 @@ Diego Ferra — Data & AI builder from Monterrey, México 🇲🇽
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoferra5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoferra5&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
